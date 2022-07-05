@@ -16,4 +16,5 @@ While printing labels on a TSC ML340P printer, we encountered a problem with slo
 - 09 TSC print labels.jpg       -- printed labels on the TSC ML340P printer
 
 ## Files
--[Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
+- [Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
+- [TSC Diagnostic Tool V1.63](https://easyscan.com.hk/download/tsc-diagnostic-tool-v1-63/)
