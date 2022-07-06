@@ -2,54 +2,24 @@
 ZPL labels on TSC printers
 
 ## Links
+- [TSC Resources](TSC%20Resources.md)
+- [TSC Bugs](TSC%20Bugs.md)
 - [Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
-- [TSC Diagnostic Tool V1.63](https://easyscan.com.hk/download/tsc-diagnostic-tool-v1-63/)
-- [TSC Downloads](https://emea.tscprinters.com/en/downloads)
-- [TSC Downloads](https://in.tscprinters.com/en/downloads)
+- [Demo app for print labels](https://github.com/DamianMorozov/TscBarCode.Example)
+- [ZPL label editor](http://labelary.com/viewer.html)
+- [TSC ML340P Printer Drivers by Seagull Scientific](https://www.seagullscientific.com/downloads/printer-drivers/tsc-ml340p)
+- [TSC printers](https://emea.tscprinters.com/)
+- [TSC ML240 Series Printer: Loading the media](https://youtube.com/watch?v=-z5LbI-iBjY)
+- [TSC ML240 Series Printer: Loading the ribbon](https://youtube.com/watch?v=Dx5UREzQpzE)
+- [Forum](https://olegon.ru/forumdisplay.php?f=199)
+- [Errors list](https://mcgrp.ru/files/viewer/244056/48)
+- [SDK](https://emea.tscprinters.com/en/downloads)
+- [ML Series 4-Inch Performance Industrial Printers](https://emea.tscprinters.com/en/products/ml-series-4-inch-performance-industrial-printers)
+- [Как подобрать риббон TSC подходящий для ваших задач?](https://club.cnews.ru/blogs/entry/kak_podobrat_ribbon_tsc_podhodyashchij_dlya_vashih_zadach_)
+- [Отделитель этикеток TSC 98-0800017-00LF](https://telecom-sales.ru/product/tsc-98-0800017-00lf/)
 
-## Datasheets
-- [ML240P Series Datasheet (English) (EMEA)](https://fs.tscprinters.com/en/dl/3/2030)
-- [ML240P Series Datasheet (Русский)](https://fs.tscprinters.com/en/dl/3/2036)
+## Status
+![Alt](https://repobeats.axiom.co/api/embed/7c78617d5a19fb98f0879122a5535883738e251e.svg "Repobeats analytics image")
 
-## Driver
-- [Linux Driver V0.2.06 (32 bit)](https://fs.tscprinters.com/en/dl/3/3443)
-- [Linux driver V1.2.06 (64 bit)](https://fs.tscprinters.com/en/dl/3/3444)
-- [Windows Driver](https://fs.tscprinters.com/en/dl/3/3448)
-- [MAC driver TSC-1.22](https://fs.tscprinters.com/en/dl/3/3445)
-
-## Firmware
-- [ML240, ML340 Firmware (A2.12A.2 EZD)](https://fs.tscprinters.com/en/dl/3/3416)
-- [ML240P, ML340P Firmware (A2.12A.2 EZD)](ML240P, ML340P Firmware (A2.12A.2 EZD))
-
-## Labeling Software
-- [TSC BarTender UltraLite Labeling Software (2021)](https://emea.tscprinters.com/en/form/send-download-link?file=7288)
-
-## Manual
-- [TSC Console User Manual](https://fs.tscprinters.com/en/dl/3/7560)
-- [TSC Standalone User Manual](https://fs.tscprinters.com/en/dl/3/7559)
-- [TSCPRTGo User Manual](https://fs.tscprinters.com/en/dl/3/7558)
-- [TSKL Programming Manual (English)](https://fs.tscprinters.com/en/dl/3/2540)
-- [TSPL/ TSPL2 Programming Manual (English)](https://fs.tscprinters.com/en/dl/3/2541)
-- [ML240 Series Setup Guide](https://fs.tscprinters.com/en/dl/3/2563)
-- [ML240 Series User Manual (English)](https://fs.tscprinters.com/en/dl/3/2564)
-- [ML240 Series User Manual (Russian)](https://fs.tscprinters.com/en/dl/3/2355)
-
-## Product Brochures
-- [TSC Brochure EMEA (English)](https://fs.tscprinters.com/en/dl/3/6577)
-- [TSC Brochure EMEA (Russian)](https://fs.tscprinters.com/en/dl/3/6599)
-
-## SAP Device Type
-- [SAP Device Type](https://fs.tscprinters.com/en/dl/3/3446)
-- [SAP note 1540910](https://fs.tscprinters.com/en/dl/3/3447)
-
-## SDK
-- 
-
-## Supplies Resources
-- [Thermal Transfer Ribbons (EMEA)](https://fs.tscprinters.com/en/dl/3/7688)
-
-## Utility
-- [TSC Console v1.1.69.5](https://emea.tscprinters.com/en/form/send-download-link?file=7311)
-- [Configure TSC printer by web browser](https://fs.tscprinters.com/en/dl/3/2812)
-- [USB Device Recognizer](https://fs.tscprinters.com/en/dl/3/2811)
-- [TSCPRTGo - in TSC Mobile Utility 1.4.5 (Android)](https://emea.tscprinters.com/en/form/send-download-link?file=7314)
+## Support
+Please click the `star` button if this tool was helpful to you.
