@@ -16,7 +16,7 @@ ZPL labels on TSC printers
 - [SDK](https://emea.tscprinters.com/en/downloads)
 - [ML Series 4-Inch Performance Industrial Printers](https://emea.tscprinters.com/en/products/ml-series-4-inch-performance-industrial-printers)
 - [Как подобрать риббон TSC подходящий для ваших задач?](https://club.cnews.ru/blogs/entry/kak_podobrat_ribbon_tsc_podhodyashchij_dlya_vashih_zadach_)
-- [Отделитель этикеток TSC 98-0800017-00LF](https://telecom-sales.ru/product/tsc-98-0800017-00lf/)
+- [TSC Peel-Off Module 98-0800017-00LF](https://telecom-sales.ru/product/tsc-98-0800017-00lf/)
 
 ## Status
 ![Alt](https://repobeats.axiom.co/api/embed/7c78617d5a19fb98f0879122a5535883738e251e.svg "Repobeats analytics image")

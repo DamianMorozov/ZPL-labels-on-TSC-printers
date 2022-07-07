@@ -20,3 +20,27 @@ While printing labels on a TSC ML340P printer, we encountered a problem with slo
 ![](07%20ZPL%20Native%20fast.zpl?raw=true)
 ![](08%20TSC%20Native%20fast.png?raw=true)
 ![](09%20TSC%20print%20labels.jpg?raw=true)
+
+## ZPL convert from Native into Cyrillic
+1. Copy and paste ZPL into Notepad++.
+2. Select data (Example: "31_37_2E_30_36_2E_32_30_32_32_0D_0A").
+3. Ctrl + H:
+	Find what: "_"
+	Replace with: ""
+	Search mode: Normal
+	✓ In selection.
+4. Plugins → Converter → HEX → ASCII.
+
+- [Text Cyrillic to Latin](https://www.branah.com/cyrillic-to-latin)
+
+## ZPL convert from Latin into Native
+1. Copy and paste ZPL into Notepad++.
+2. Select data (Example: "Data izgot.:").
+3. Plugins → Converter → ASCII → HEX.
+4. Select data (Example: "4461746120697A676F742E3A").
+5. Ctrl + H:
+	Find what: (..)
+	Replace with: _\1
+	Search mode: Regular expression
+	✓ In selection.
+6. Plugins → Converter → HEX → ASCII.

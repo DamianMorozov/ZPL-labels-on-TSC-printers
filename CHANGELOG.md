@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.030] - 2022-07-07
+### Changed
+- [Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
+
 ## [0.1.025] - 2022-07-06
 ### Added
 - TSC Bugs.md

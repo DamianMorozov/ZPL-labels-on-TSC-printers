@@ -3,17 +3,18 @@
 
 ^LH0,0  ^FWR
 
-^FO890,30  ^CFZ,24,18  ^FB1100,1,0,C,0
+^FO890,30  ^CFZ,24,18  ^FB1100,1,0,C,0    
 ^FH^FD
 Изготовитель: ООО "Владимирский стандарт" Россия, 600910 Владимирская обл. г.Радужный квартал 13/13 дом 20
 ^FS
 
 ^FO510,50  ^CFZ,44,34  ^FB910,4,0,J,0  ^FH^FD
-Изделия колбасные полукопченые. Продукт мясной категории В. Колбаса полукопченая «Кремлевская с грудинкой» ТУ 10.13.14-002-91005552-2015
+Изделие колбасное варено-копченое. Продукт мясной категории В. |Колбаса варено-копченая " Сервелат Зернистый" охлажденная |ТУ 10.13.14-003-91005552-2015
+
 ^FS
 
 ^FO350,50  ^CFZ,36,20  ^FB800,4,0,J,0  ^FH^FD
-Срок годности: при температуре от 0°С до+ 6°С и относительной влажности воздуха не выше 75%-78% в искусственной оболочке, упакованной под вакуумом - 40 суток,
+Срок годности: 35 суток при температуре от 0°С до +6°С и относительной влажности воздуха 75%-78%, Упаковано под вакуумом
 ^FS
 
 ^FO320,50  ^CFZ,25,20  ^FB170,1,0,L,0  ^FH^FD
@@ -21,7 +22,7 @@
 ^FS
 
 ^FO270,50  ^CFZ,56,40  ^FB300,1,0,L,0  ^FH^FD
-17.06.2022
+06.07.2022
 ^FS
 
 ^FO320,360  ^CFZ,25,20  ^FB170,1,0,L,0  ^FH^FD
@@ -29,7 +30,7 @@
 ^FS
 
 ^FO270,360  ^CFZ,56,40  ^FB300,1,0,L,0  ^FH^FD
-17.06.2022
+10.08.2022
 ^FS
 
 ^FO320,720  ^CFZ,25,20  ^FB100,1,0,L,0  ^FH^FD
@@ -37,7 +38,7 @@
 ^FS
 
 ^FO270,720  ^CFZ,56,40  ^FB150,1,0,L,0  ^FH^FD
-25
+15
 ^FS
 
 ^FO270,800  ^CFZ,42,38  ^FB100,1,0,L,0  ^FH^FD
@@ -49,21 +50,21 @@
 ^FS
 
 ^FO370,720  ^CFZ,56,40  ^FB150,1,0,L,0  ^FH^FD
-115
+109
 ^FS
 
 ^FO220,100  ^CFZ,25,20  ^FB200,1,0,L,0  ^FH^FD
-Замес:1
+Замес: 1
 ^FS
 
 ^FO220,400  ^CFZ,25,20  ^FB450,1,0,L,0  ^FH^FD
-Цех/Линия:Разработчик TSC
+Цех/Линия: Производство 1 АРМ 2
 ^FS
 
-^FO745,100  ^BY3  ^B2R,120,Y,N,N  ^FD  29800001000000252206173300515001
+^FO745,100  ^BY3  ^B2R,120,Y,N,N  ^FD  298123450000002322070617043300410001
 ^FS
 
-^FO90,100  ^BY4  ^BCR,120,Y,N,N  ^FD>;(01)2600033000008(3103)000515(11)220617(10)2206
+^FO90,100  ^BY4  ^BCR,120,Y,N,N  ^FD>;(01)26000560000098(3103)000410(11)220706(10)2207
 ^FS
 
 ^FO460,865  ^GFA,02560,02560,00016,:Z64:eJzt1D9OwzAUBvBnuVIWpGRkQApH6A3CUcoNMnbDEgMjHCmIoQuiaweEwg0cZelgxcT5R76vUlhgQOpbql8TPz8/OxY5xz8L7Q049gV6V4KvZAO+lPXi8/gex3N+nt80QIVvt44KdFyiLzbkfPk5j+f8PP8W/eLRO1yP2uN61V7hfB+Cfsf+qYPk5DX5enH8K+V/Uxbr1ehKINSRjNsjcmfQaYmOLVo7SuDJkDArMKG3Es0q0t5BRZGfhQuHbR5sIyk5636HhO1ByMYH3WST+4p0ObqvSE12ZM8uyJZ8xPn6ir7rmbJw/Wharwv9aaDpeih1bLoaltI1fRX+H5ofmr6a7UNo+twhIbjdOHBslZ+fBO3QbUJ4v60InZboyKI1WU5MB62ii6getnXyA57cWufoCC+++jFBN+iKvhy7JQsZP1Sxmp384KflfHgxnM6fGTT159bjCP1JLrA/WpJfNuZXBvdHnmlFN3KOP44vAE9Dtg==:8667
@@ -75,5 +76,5 @@
 ^FO225,865  ^GFA,02560,02560,00016,:Z64:eJxjYBgFIwv8RwYfhgD/B9jVQBYD41DkDzUw4PFNZT7UV2jxMXj5Ax1elPKHGhjo8KI6/wfca4xDkT8K6AkAdL9IEg==:6E84
 ^FS
 
-^PQ1
+^PQ1  
 ^XZ
