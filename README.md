@@ -2,7 +2,9 @@
 ZPL labels on TSC printers
 
 ## Local resources
-- [Print settings](Print%20settings/README.md)
+- [Print settings → Diagnostic Tools](Print%20settings/Diagnostic%20Tools.md)
+- [Print settings → Web](Print%20settings/Web.md)
+- [Print settings → Windows](Print%20settings/Windows.md)
 - [Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
 
 ## Links
