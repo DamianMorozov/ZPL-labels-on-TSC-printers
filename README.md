@@ -1,10 +1,13 @@
 # ZPL-labels-on-TSC-printers
 ZPL labels on TSC printers
 
+## Local resources
+- [Print settings](Print%20settings/README.md)
+- [Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
+
 ## Links
 - [TSC Resources](TSC%20Resources.md)
 - [TSC Bugs](TSC%20Bugs.md)
-- [Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
 - [Demo app for print labels](https://github.com/DamianMorozov/TscBarCode.Example)
 - [ZPL label editor](http://labelary.com/viewer.html)
 - [TSC ML340P Printer Drivers by Seagull Scientific](https://www.seagullscientific.com/downloads/printer-drivers/tsc-ml340p)

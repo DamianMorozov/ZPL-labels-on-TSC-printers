@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.030] - 2022-07-07
+## [0.1.050] - 2022-07-07
+### Added
+- [Print settings](Print%20settings/README.md)
 ### Changed
 - [Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
 
