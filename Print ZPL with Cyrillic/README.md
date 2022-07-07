@@ -12,7 +12,7 @@ While printing labels on a TSC ML340P printer, we encountered a problem with slo
 - 06 ZPL Latin convert.zpl      -- converted Latin ZPL code
 - 07 ZPL Native fast.zpl        -- native ZPL code with Latin characters for printing
 - 08 TSC Native fast.png        -- native print ZPL code with Latin characters in Diagnostic Tool 1.63
-- 09 TSC print labels.jpg       -- printed labels on the TSC ML340P printer
+- 09 TSC print labels.png       -- printed labels on the TSC ML340P printer
 
 ![](02%20TSC%20file%20fonts.png?raw=true)
 ![](03%20TSC%20Native%20print%20slow.png?raw=true)
@@ -21,7 +21,7 @@ While printing labels on a TSC ML340P printer, we encountered a problem with slo
 ![](06%20ZPL%20Latin%20convert.zpl?raw=true)
 ![](07%20ZPL%20Native%20fast.zpl?raw=true)
 ![](08%20TSC%20Native%20fast.png?raw=true)
-![](09%20TSC%20print%20labels.jpg?raw=true)
+![](09%20TSC%20print%20labels.png?raw=true)
 
 ## ZPL convert from Native into Cyrillic
 1. Copy and paste ZPL into Notepad++.
