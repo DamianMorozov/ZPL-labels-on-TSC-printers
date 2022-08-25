@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.093] - 2022-08-25
+### Changed
+- [Print settings → Web](Print%20settings/Web.md)
+
 ## [0.1.082] - 2022-07-21
 ### Changed
 - [Print settings → Diagnostic Tools](Print%20settings/Diagnostic%20Tools.md)
