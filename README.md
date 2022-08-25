@@ -1,6 +1,9 @@
 # ZPL-labels-on-TSC-printers
 ZPL labels on TSC printers
 
+- [CHANGELOG](CHANGELOG.md)
+- [LICENSE](LICENSE.md)
+
 ## Local resources
 - [Print settings → Diagnostic Tools](Print%20settings/Diagnostic%20Tools.md)
 - [Print settings → Web](Print%20settings/Web.md)

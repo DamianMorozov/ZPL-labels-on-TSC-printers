@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.093] - 2022-08-25
+## [0.1.094] - 2022-08-25
 ### Changed
 - [Print settings → Web](Print%20settings/Web.md)
+- [CHANGELOG](CHANGELOG.md)
 
 ## [0.1.082] - 2022-07-21
 ### Changed
@@ -25,16 +26,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.025] - 2022-07-06
 ### Added
-- TSC Bugs.md
-- TSC Resources.md
+- [TSC Bugs](TSC%20Bugs.md)
+- [TSC Resources](TSC%20Resources.md)
 ### Changed
-- README.md
+- [README](README.md)
 
 ## [0.1.022] - 2022-07-05
 ### Added
 - .gitattributes
 - .gitignore
-- CHANGELOG.md
-- LICENSE.md
-- README.md
+- [CHANGELOG](CHANGELOG.md)
+- [LICENSE](LICENSE.md)
+- [README](README.md)
 - [Print ZPL with Cyrillic](Print%20ZPL%20with%20Cyrillic/README.md)
